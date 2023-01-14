@@ -1,1 +1,3 @@
-# JS_Scrimba_Proj2
+# JavaScript Scrimba Project 2
+
+In this project I created a blackjack game using JavaScript.
